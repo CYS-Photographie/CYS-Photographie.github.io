@@ -1,4 +1,0 @@
----
-title: Nouveautés
-subtitles: nouveautes
----
